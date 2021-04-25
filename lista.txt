@@ -7,3 +7,5 @@ Missing Product 5
 Adding Product 6
 Super A
 Super A
+Super B
+Super C
